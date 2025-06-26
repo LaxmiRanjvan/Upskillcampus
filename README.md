@@ -18,9 +18,9 @@ Easy-to-use web interface.
 <h2>Technologies Used</h2>
 
 Python
-Flask
-SQLite
-HTML
+,Flask
+,SQLite
+,HTML
 
 <h2>Installation and Setup</h2>
 <h3>Create Virtual Environment:</h3>
@@ -60,9 +60,6 @@ Click analytics and tracking
 
 Scalability improvements for high-traffic usage
 
-
-<h2>Documentation</h2>
-<a href="[url](https://github.com/LaxmiRanjvan/Upskillcampus/blob/main/URLShortner_Laxmi_USC_UCT.pdf)">link text</a>
 
 <h2>Acknowledgements</h2>
 Upskill Campus
